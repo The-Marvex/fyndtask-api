@@ -24,5 +24,3 @@ app.config['MONGODB_SETTINGS'] = {
 
 initialize_db(app)
 intitialize_routes(api)
-
-app.run()
